@@ -1,0 +1,6 @@
+{
+  "name": "Israeli Snack Quiz",
+  "description": "A viral personality quiz to find out which Israeli snack you are.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
